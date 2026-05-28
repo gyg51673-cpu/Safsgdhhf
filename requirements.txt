@@ -1,0 +1,4 @@
+aiohttp>=3.9,<4
+aiogram>=3.7,<4
+openai>=1.30,<2
+SpeechRecognition>=3.10,<4
